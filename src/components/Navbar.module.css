@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 5rem;
+  background-color: #3d0ea9;
+}
+
+.navbar h2 a {
+  opacity: 1;
+}
+
+.navbar ul {
+  display: flex;
+  gap: 2rem;
+}
+
+.newBtn {
+  border: 2px solid #FFFFFF;
+  padding: .5rem 1rem;
+  border-radius: 0.7rem;
+}
+
+.newBtn:hover {
+  background-color: #FFFFFF;
+  color: #5814f2;
+}

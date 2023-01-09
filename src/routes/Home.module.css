@@ -1,0 +1,20 @@
+.post {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+
+}
+
+.newsBtn {
+  border: 2px solid #FFFFFF;
+  padding: .5rem 1rem;
+  width: fit-content;
+  border-radius: 0.7rem;
+  cursor: pointer;
+  background-color: #3d0ea9;
+}
+
+.newsBtn:hover {
+  background-color: #FFFFFF;
+  color: #5814f2;
+}
